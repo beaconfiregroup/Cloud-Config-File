@@ -17,4 +17,4 @@ jwt:
   token:
     signiture: XXXTheThreeMusketeersXXX
     login:
-      name: JWT-TOKEN-LOGIN 1233123
+      name: JWT-TOKEN-LOGIN
