@@ -12,3 +12,9 @@ management:
     web:
       exposure:
         include: "*"
+
+jwt:
+  token:
+    signature: XXXTheThreeMusketeersXXX
+    login:
+      name: JWT-TOKEN-LOGIN
