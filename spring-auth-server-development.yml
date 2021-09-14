@@ -17,4 +17,4 @@ jwt:
   token:
     signiture: XXXTheThreeMusketeersXXX
     login:
-      name: JWT-TOKEN-LOGINasdasd
+      name: JWT-TOKEN-LOGIN
