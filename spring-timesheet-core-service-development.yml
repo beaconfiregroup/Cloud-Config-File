@@ -17,7 +17,7 @@ jwt:
   token:
     signature: XXXTheThreeMusketeersXXX
     login:
-      name: JWT-TOKEN-LOGIN
+      name: "JWT-TOKEN-LOGIN"
 
 globalconstant:
   holidays:
